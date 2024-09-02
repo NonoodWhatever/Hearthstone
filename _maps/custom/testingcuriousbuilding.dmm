@@ -1,0 +1,177 @@
+"aq" = (/obj/structure/stairs{dir = 4; icon_state = "stairs"},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"bZ" = (/obj/machinery/light/floor,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"cg" = (/obj/structure/table/greyscale,/obj/machinery/microwave,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"cr" = (/obj/structure/statue/gold/rd,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"cP" = (/obj/structure/stairs{dir = 8; icon_state = "stairs"},/turf/open/transparent/openspace,/area/rogue)
+"dm" = (/obj/structure/chair/old,/mob/living/simple_animal/hostile/retaliate/spaceman,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"dn" = (/mob/living/simple_animal/hostile/retaliate/spaceman,/obj/structure/chair/old{dir = 1},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"dw" = (/obj/structure/window/plasma/reinforced/spawner,/obj/structure/grille,/obj/structure/window/plasma/reinforced/spawner/north,/obj/structure/window/plasma/reinforced/plastitanium,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"dD" = (/obj/structure/sign/poster/official/no_erp,/turf/closed/wall/mineral/rogue/pipe,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"ew" = (/obj/machinery/vending/snack/blue,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"ez" = (/obj/item/pickaxe/mini,/obj/item/pickaxe/mini{pixel_x = -6},/obj/structure/rack,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"fy" = (/obj/structure/table/greyscale,/obj/effect/spawner/lootdrop/pizzaparty,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"fX" = (/obj/structure/table/greyscale,/obj/item/book/granter/spell/blackstone/skeleton,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"gZ" = (/obj/structure/chair/old{dir = 1},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"ix" = (/obj/item/crowbar/large,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"jq" = (/turf/closed/wall/mineral/rogue/pipe,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"kC" = (/mob/living/simple_animal/hostile/rogue/ghost/cursed/cursed2,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"kD" = (/mob/living/simple_animal/hostile/retaliate/spaceman,/obj/machinery/light/floor,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"nL" = (/obj/structure/rack,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"oF" = (/obj/machinery/door/airlock/survival_pod,/turf/closed,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"qw" = (/obj/structure/rack,/obj/item/book/manual/wiki/experimentor{pixel_x = 9},/obj/item/book/manual/wiki/research_and_development{pixel_x = 4},/obj/item/book/manual/wiki/telescience{pixel_x = -7},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"sb" = (/obj/structure/window/plasma/reinforced/spawner/north,/obj/structure/grille,/obj/structure/window/plasma/reinforced/spawner,/obj/structure/window/plasma/reinforced/plastitanium,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"sn" = (/obj/structure/table/greyscale,/obj/item/reagent_containers/glass/bottle/rogue/healthpot,/obj/item/reagent_containers/glass/bottle/rogue/poison{pixel_y = 2; pixel_x = 7},/obj/item/reagent_containers/glass/bottle/rogue/wine{pixel_x = 11; pixel_y = -3},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"sE" = (/obj/structure/stairs{dir = 4; icon_state = "stairs"},/turf/open/transparent/openspace,/area/rogue)
+"tg" = (/mob/living/simple_animal/hostile/rogue/haunt,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"us" = (/mob/living/simple_animal/hostile/rogue/haunt/omen,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"uE" = (/obj/structure/sign/poster/official/help_others,/turf/closed/wall/mineral/rogue/pipe,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"uP" = (/turf/open/floor/plating/ashplanet/rocky,/area/rogue)
+"xq" = (/obj/structure/table/greyscale,/obj/item/book/rogue/necra{pixel_x = 11; pixel_y = -9},/obj/item/book/rogue/festus{pixel_x = 10; pixel_y = 2},/obj/item/book/rogue/beardling,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"xK" = (/obj/structure/sign/warning/securearea{name = "Unknown Sign"},/turf/closed/wall/mineral/rogue/pipe,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"zd" = (/mob/living/simple_animal/hostile/retaliate/spaceman,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"zg" = (/turf/closed/mineral/random/rogue,/area/rogue)
+"zJ" = (/turf/open/floor/grass,/area/rogue)
+"Bo" = (/obj/structure/lattice/catwalk,/turf/open/transparent/openspace,/area/rogue)
+"Ci" = (/obj/structure/table/greyscale,/obj/item/reagent_containers/food/drinks/soda_cans/cola{pixel_x = 7},/obj/item/reagent_containers/food/snacks/spacetwinkie{pixel_y = -1; pixel_x = -5},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"CE" = (/obj/structure/rack,/obj/item/wirecutters,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"CF" = (/obj/machinery/limbgrower,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"CP" = (/mob/living/simple_animal/hostile/retaliate/ghost{faction = list("undead")},/obj/machinery/light/floor,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"Ew" = (/obj/structure/table/greyscale,/obj/item/paper/natural{pixel_x = 6; pixel_y = -7},/obj/item/pen{pixel_y = 12; pixel_x = -9},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"FA" = (/turf/closed/mineral/rogue/bedrock,/area/rogue)
+"FB" = (/obj/structure/window/plasma/reinforced/spawner/north,/obj/structure/window/plasma/reinforced/spawner,/obj/structure/grille,/obj/structure/window/plasma/reinforced/plastitanium,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"FC" = (/obj/structure/fence/door,/turf/open/floor/plating/ashplanet/rocky,/area/rogue)
+"FV" = (/obj/structure/lattice/catwalk,/obj/structure/fence/door{dir = 4},/turf/open/transparent/openspace,/area/rogue)
+"Gh" = (/turf/closed/wall/mineral/rogue/pipe{dir = 4; icon_state = "iron_line"},/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"GM" = (/mob/living/simple_animal/hostile/rogue/ghost/wraith/wraith3,/obj/machinery/light/floor,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"HG" = (/obj/structure/lattice/catwalk,/obj/structure/lattice/catwalk,/turf/open/transparent/openspace,/area/rogue)
+"IA" = (/obj/structure/fluff/walldeco/painting{pixel_x = 32},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"KY" = (/turf/open/transparent/openspace,/area/rogue)
+"LF" = (/obj/machinery/door/airlock/survival_pod,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"LJ" = (/obj/structure/sign/poster/contraband/fun_police,/turf/closed/wall/mineral/rogue/pipe,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"NN" = (/mob/living/simple_animal/hostile/rogue/ghost/cursed,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"Oh" = (/mob/living/simple_animal/hostile/retaliate/ghost{faction = list("undead")},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"Or" = (/obj/structure/table/greyscale,/obj/machinery/reagentgrinder{pixel_x = 6},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"OR" = (/mob/living/simple_animal/hostile/rogue/ghost/wraith/wraith3,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"Pr" = (/obj/structure/table/greyscale,/obj/item/book/rogue/sword{pixel_y = -4; pixel_x = 10},/obj/item/book/rogue/law{pixel_y = -5; pixel_x = -4},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"PE" = (/obj/structure/chair/old,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"Ra" = (/obj/structure/rack,/obj/item/poster/random_official,/obj/item/poster/random_official,/obj/item/poster/random_official,/obj/item/poster/random_official,/obj/item/poster/random_official,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"Tl" = (/obj/structure/stairs{dir = 4; icon_state = "stairs"},/obj/structure/stairs{dir = 4; icon_state = "stairs"},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"TQ" = (/obj/structure/fence{dir = 4},/turf/open/floor/plating/ashplanet/rocky,/area/rogue)
+"Uy" = (/obj/structure/fluff/walldeco/rpainting{pixel_x = 32},/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"VH" = (/mob/living/simple_animal/hostile/rogue/ghost/wraith,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"WS" = (/mob/living/simple_animal/hostile/rogue/ghost/wraith/wraith2,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"XM" = (/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"YL" = (/obj/structure/table/greyscale,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+"YQ" = (/obj/structure/stairs{dir = 4; icon_state = "stairs"},/turf/open/floor/plating/ashplanet/rocky,/area/rogue)
+"Ze" = (/obj/structure/chair/old{dir = 1},/mob/living/simple_animal/hostile/retaliate/spaceman,/turf/open/floor/rogue/metal,/area/science/xenobiology{requires_power = 0; name = "Secret Lab"})
+
+(1,1,1) = {"
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+zgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzgzg
+"}
+(1,1,2) = {"
+jqjqjqjqjqjqzgzgzgzgjqjqjqjqjqjqjqjqjqjq
+jqjqjqjqjqjqjqjqjqjqjqXMXMjqXMbZcrbZXMjq
+jqjqXMXMXMXMXMXMXMXMXMXMXMLFXMXMXMXMXMjq
+jqjqXMXMjqjqjqjqdDjqjqjqjqjqdndnXMdndnjq
+jqjqzdXMaqjqXMXMXMXMLFXMaqjqdndnXMdndnjq
+jqjqXMzdaqjqXMXMzdXMxKixTljqdndnXMdndnjq
+jqjqjqjqjqjqLFjqLJjqjqjqjqjqjqjqLFjqjqjq
+jqYLfycgjqXMXMjqezCERanLjqXMzdjqXMzdEwjq
+jqXMXMXMjqkDXMjqXMXMXMXMjqbZXMjqXMbZsnjq
+jqdmXMXMLFXMXMuEjqjqoFjqjqXMXMjqzdXMOrjq
+jqYLXMXMjqXMzdXMXMXMXMXMXMXMXMLFXMXMqwjq
+jqgZXMewjqjqjqjqjqjqjqjqxKLFjqjqzdbZfXjq
+jqPEXMXMjqCFXMXMXMXMXMXMXMXMXMjqXMXMxqjq
+jqYLXMXMLFXMbZXMXMXMXMXMXMbZXMLFXMXMPrjq
+jqgZbZXMjqFBsbsbdwdwdwdwdwdwFBjqXMkDnLjq
+jqdmXMPEjqkCXMWSXMNNXMNNNNkCNNjqXMXMIAjq
+jqCibZYLjqXMCPtgNNORkCVHtgGMOhjqXMXMUyjq
+jqZeXMZejqkCtgWStgOhusORXMNNkCjqzdbZXMjq
+jqjqjqjqjqGhGhGhGhGhGhGhGhGhGhGhGhGhjqjq
+jqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjq
+"}
+(1,1,3) = {"
+zJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJ
+zJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJ
+zJzJFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAzJzJ
+zJzJFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAzJzJ
+zJzJFAKYKYYQFAFAFAFAFAFAKYsEuPuPFAFAzJzJ
+zJzJFAKYKYYQFAFAFAFAFAFAKYsEuPuPFAFAzJzJ
+zJzJFAFAFAFAFAFAFAFAFAFATQTQFCTQFAFAzJzJ
+zJzJFAFAFAFAFAFAFAFAFAFAuPuPuPuPFAFAzJzJ
+zJzJFAFAFAuPuPuPuPFAFAFAuPuPuPuPFAFAzJzJ
+zJzJFAFAuPuPuPuPuPFAFAFAFAuPuPuPFAFAzJzJ
+zJzJFAuPuPuPuPuPuPuPFAFAFAuPuPuPFAFAzJzJ
+zJzJFAuPuPuPuPuPuPuPFAFAFAuPuPuPFAFAzJzJ
+zJzJFAFAuPuPuPuPFAuPuPuPFAuPuPuPFAFAzJzJ
+zJzJFAFAuPuPuPFAFAFAFAuPuPuPuPuPFAFAzJzJ
+zJzJFAFAuPuPuPFAFAFAFAuPuPuPuPuPFAFAzJzJ
+zJzJFAFAFAFAuPuPFAFAFAuPuPuPuPuPFAFAzJzJ
+zJzJFAFAFAFAuPFAFAFAFAFAFAFAFAFAFAFAzJzJ
+zJzJFAFAFAFAuPFAFAFAFAFAFAFAFAFAFAFAzJzJ
+zJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJ
+zJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJzJ
+"}
+(1,1,4) = {"
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAKYKY
+KYKYFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAKYKY
+KYKYFAFAFAKYcPBoBoBoFAKYKYKYKYKYFAFAKYKY
+KYKYFAFAFAKYcPBoBoBoFAKYKYKYKYKYFAFAKYKY
+KYKYFAFAFAFAFAFABoBoFAKYKYKYKYKYFAFAKYKY
+KYKYFAFAFAFAFAFABoBoFAFAFAFAKYKYFAFAKYKY
+KYKYFAFABoBoBoBoHGHGKYKYKYFAKYKYFAFAKYKY
+KYKYFAFABoKYKYKYKYKYKYKYKYFAFAFAFAFAKYKY
+KYKYFAFABoKYKYKYKYKYKYKYKYFABoBoFAFAKYKY
+KYKYFAFABoKYKYKYKYKYKYKYKYFAHGBoFAFAKYKY
+KYKYFAFABoKYKYKYBoBoBoBoBoFVHGBoFAFAKYKY
+KYKYFAFABoKYKYKYKYKYKYKYKYFABoBoFAFAKYKY
+KYKYFAFABoKYKYKYKYKYKYKYKYFAFAFAFAFAKYKY
+KYKYFAFABoBoBoBoBoBoKYKYKYFAKYKYFAFAKYKY
+KYKYFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAKYKY
+KYKYFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+"}
+(1,1,5) = {"
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+KYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKYKY
+"}
